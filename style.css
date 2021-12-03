@@ -6,7 +6,9 @@
   -webkit-box-sizing: border-box;
   font-family: "Varela Round";
 }
-
+main{
+  display: block;
+}
 body {
   font-family: "Varela Round";
   background: #b8c6db;
